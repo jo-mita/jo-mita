@@ -22,7 +22,8 @@ Me encanta resolver problemas complejos y crear soluciones elegantes.
 
 ### 📫 Contáctame
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](tu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:tu-email)
+[![Email](jeremyhmota72@gmail.com)
+
 
 ---
 
